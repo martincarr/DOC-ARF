@@ -1,0 +1,89 @@
+\section{Iteración 0}
+\subsection{Exploración}
+En éste apartado se definirá el alcance del proyecto, los recursos u herramientas a usar, y las personas involucradas en su desarrollo, así como las pruebas de contexto realizadas en las tecnologías que usaremos.
+
+
+\subsubsection{Pruebas de contexto}
+Con el fin de conocer las capacidades de las plataforma ARCore y Vuforia (excluyendo ARKit debido a que su desarrollo en enfocado a sistemas iOS, ARToolkit porque no se centra en dispositivos móviles y a Wikitude por su reducido número de dispositivos compatibles), se realizaron pruebas de contexto definiendo las siguientes especificaciones:
+\begin{itemize}
+	\item Nombre del dispositivo en el que se realizó
+	\item Fecha de prueba
+	\item Versión de la tecnologia SDK
+	\item Versión de Android
+\end{itemize}
+Por otro lado cada prueba se realizó tomando en cuenta las siguientes características:
+\begin{itemize}
+	\item \textbf{Posición Cardinal}.- Define si un objeto virtual puede visualizarse desde los cuatro puntos cardinales (norte, sur, este, oeste) y desde la parte superior del mismo, cuando la cámara gira alrededor del objeto mientras lo enfoca.
+	\item \textbf{Tamaño relativo}.- Define si un objeto cambia su tamaño en el entorno virtual dependiendo de la distancia a la que se acerque o se aleje la cámara. Cuando la cámara se acerca, el objeto deberá aumentar su tamaño, y viceversa, como si se tratase de un objeto real.
+	\item \textbf{Luminosidad}.- Define el grado de oscuridad de un objeto a determinada luz, es decir, cuando la luz en el ambiente real es alta, el objeto se verá iluminado, en caso contrario cuando haya escasa luz, el objeto se oscurecerá.
+	\item \textbf{Superficie}.- Describe en qué superficies el objeto virtual es puesto, si fue posible su superposición en este material y qué comportamiento tiene en cada una de estas.
+	\item \textbf{Memoria de objetos}.- Define si los objetos virtuales se conservan en la memoria cuando la cámara pierde su enfoque en ellos y los vuelve a enfocar. También describe si los objetos conservaron su posición tras el re-enfoque.
+	\item \textbf{Capacidad máxima de objetos}.- Define el número de objetos virtuales que pueden ser mostrados en escena sin que el rendimiento de la aplicación caiga considerablemente.
+	\item \textbf{Distancia}.- Define la distancia a la que se encuentra la cámara de un objeto virtual sin que éste desaparezca o sin que su resolución baje considerablemente.
+\end{itemize}
+\noindent
+
+\input{./desarrollo/secciones/pruebas/motog6/pruebas}
+\noindent
+\input{./desarrollo/secciones/pruebas/Vuforia/pruebas}
+\noindent
+
+\subsubsection{Conclusión de pruebas de contexto}
+Tras las pruebas de contexto realizadas con ARCore y Vuforia, se tomó la decisión de desarrollar el proyecto con ARCore por las siguientes razones:
+\begin{itemize}
+	\item Vuforia presentó intermitencia en las pruebas de posición cardinal.
+	\item Vuforia depende de un marcador físico para posicionar el objeto.
+	\item La dependencia de Vuforia al marcador físico elimina la capacidad de memoria de objetos.
+	\item Vuforia en ambientes con luz muy baja es incapaz de funcionar.
+	\item Con Vuforia se requieren imprimir tantos marcadores físicos como objetos se deseen visualizar. Es decir, si se quieren mostrar 30 muebles en escena, es necesario imprimir y posicionar los 30 marcadores en el entorno físico.
+\end{itemize}
+
+\subsubsection{Establecimiento de interesados}
+\textbf{Desarrolladores} \par
+Para poder construir la aplicación requeriremos desarrolladores que puedan diseñar la arquitectura que tendrá la aplicación y programarla. Los tres desarrolladores que estarán trabajando en el proyecto son Gerardo Aramis Cabello Acosta, Martín Alejandro Carrillo Mendoza y Saúl del Pilar Morales. Su intervención se requerirá en todas las iteraciones del proyecto desde la I a la IX.\par
+\textbf{Directores} \par
+Los directores serán los encargados de supervisar los avances del proyecto en cada iteración. También serán elementos de apoyo a los que los desarrolladores podrán acudir en caso de tener alguna duda o complicación. Su intervención se requerirá durante todo el desarrollo del proyecto desde la iteración I a la iteración IX.\par
+\textbf{Sinodales} \par
+Serán quienes evaluarán el proyecto al terminar los entregables de TT I y TT II. Su intervención se requerirá al finalizar las iteraciones IV y IX.\par
+\textbf{Arquitecto} \par
+Se requiere contactar a un arquitecto que tenga conocimientos en antropometría con el objetivo de poder obtener una retroalimentación del proyecto. Ésta retroalimentación nos servirá para poder mejorar la aplicación modificando, añadiendo o removiendo características. Su intervención se requerirá en la fase de inicialización y en la fase de planeación de la iteración V, que será la fase inmediata después de presentar TT I.\par
+\textbf{Mueblerías} \par
+Cuando el proyecto esté terminado, acudiremos a varias mueblerías para presentarlo. De esta forma las tiendas que estén interesadas y deseen que sus muebles aparezcan en el catálogo de la aplicación, se convertirán en nuestros socios de negocio. De ésta forma enfocaremos el proyecto al e-Commerce. Su intervención se requerirá tras finalizar la iteración IX, que será la última fase antes de presentar TT II.\par
+
+\subsubsection{Alcance}
+Se desarrollará una aplicación móvil para dispositivos móviles que usen Android como sistema operativo en su versión 7.0 en adelante y que se encuentren dentro de la lista especificada por la \textit{Tabla 2.6}\par
+El objetivo de la aplicación será lograr que el proceso de diseño de interiores sea más sencillo y rápido, esto a través de la eliminación y reducción de etapas del proceso implicado (véase \textit{Figura 1.1}).
+La aplicación cumplirá las siguientes funciones:\par
+\begin{itemize}
+	\item Tendrá un login, el cual tras la autenticación, permitirá guardar los escenarios que se vayan generando con sus respectivas fotografías.
+	\item Tendrá una opción alternativa para iniciar la aplicación sin pasar por un proceso de autenticación. En este caso sólo se podrá generar un entorno virtual con AR pero no se podrá guardar el escenario.
+	\item Tendrá un catálogo de muebles modelados y renderizados en 3D
+	\item La aplicación podrá incluir hasta 100 muebles en escena al mismo tiempo.
+	\item Será posible cambiar las texturas de los muebles puestos en escena.
+	\item Los objetos puestos en escena tendrán posición relativa.
+	\item Los objetos puestos en escena tendrán una variación dinámica de luz, esto es, que conforme cambie la luz en el ambiente real, también lo hará de forma virtual en los objetos superpuestos.
+	\item La superposición de objetos no requerirá el uso hardware externo o marcadores físicos.
+	\item Será posible mover los muebles de lugar aún después de ser puestos en escena.
+	\item La aplicación podrá tomar fotografías de los escenarios de realidad aumentada que vaya generando el usuario.
+	\item La aplicación permitirá asociar las fotografías tomadas a escenarios específicos. \textit{v.g. "Diseño de interiores - Casa Loma Bonita"}
+\end{itemize}
+\noindent
+El desarrollo del proyecto será finalizado en mayo de 2019.
+\subsubsection{Establecimiento de proyecto}
+El proyecto será realizado en nueve iteraciones hasta el entregable de TT II. Dado que la metodología es ágil basada en Extreme Programming, dividiremos el desarrollo en dos partes, para los entregables de TT I y TT II. La primer parte comprende desde iteración uno hasta la cuatro, al final de la cual terminaremos el entregable de TT I y realizaremos nuestra presentación. A continuación se encuentran descritas cada una de la iteraciones que involucrarán el desarrollo de TT I.\par
+
+\textbf{Iteración I} \par
+En éste punto ya está realizada la primer implementación de AR con la cual se realizaron las pruebas de contexto descritas anteriormente. Por lo tanto, para ésta iteración vamos a implementar un modelo 3D propio. Usaremos Blender para el modelado y renderizado de éste elemento. Al final de ésta iteración tendremos una aplicación en Android que pueda desplegar a través de AR un modelo 3D diseñado por nosotros.
+
+\textbf{Iteración II} \par
+En ésta iteración vamos hacer el diseño detallado de un mueble. De igual manera el modelado y renderizado será en Blender. Al final de ésta iteración tendremos una aplicación en Android que pueda desplegar a través de AR un mueble. El entregable de ésta iteración es el equivalente al planeado en el protocolo para TT I.
+
+\textbf{Iteración III} \par
+En ésta iteración vamos a desarrollar el backend de la aplicación para poder realizar el login, registro de cuenta, recuperación de contraseña y el guardado de los escenarios que se vayan generando en la realidad aumentada. Al final de ésta iteración se tendrá el backend totalmente funcional para conectarlo con la aplicación a través del protocolo HTTP.
+
+\textbf{Iteración IV} \par
+En ésta iteración vamos a generar varios modelos de muebles y presentarlos en la aplicación de tal forma que puedan ser seleccionables y puedan ser posicionados de forma individual en el mismo escenario. También vamos a implementar la funcionalidad de tomar una foto del entorno virtual generado y almacenarla en el dispositivo.
+
+
+
+

@@ -1,0 +1,78 @@
+\contentsline {chapter}{\numberline {1}Introducci\'on}{1}
+\contentsline {section}{\numberline {1.1}Contexto de trabajo}{1}
+\contentsline {section}{\numberline {1.2}Problem\IeC {\'a}tica}{1}
+\contentsline {section}{\numberline {1.3}Trabajo previo}{2}
+\contentsline {section}{\numberline {1.4}Soluci\IeC {\'o}n propuesta}{2}
+\contentsline {section}{\numberline {1.5}Objetivo}{3}
+\contentsline {section}{\numberline {1.6}Justificaci\IeC {\'o}n}{3}
+\contentsline {chapter}{\numberline {2}Marco Te\IeC {\'o}rico }{6}
+\contentsline {section}{\numberline {2.1}Dise\IeC {\~n}o de interiores}{6}
+\contentsline {subsection}{\numberline {2.1.1}Definicion}{6}
+\contentsline {subsection}{\numberline {2.1.2}Movimientos en el dise\IeC {\~n}o de interiores}{6}
+\contentsline {subsubsection}{Feng shui}{6}
+\contentsline {subsubsection}{Deconstructivismo}{7}
+\contentsline {subsubsection}{Dise\IeC {\~n}o Org\IeC {\'a}nico}{7}
+\contentsline {subsection}{\numberline {2.1.3}Fundamentos del dise\IeC {\~n}o de interiores}{7}
+\contentsline {section}{\numberline {2.2}Realidad Aumentada}{10}
+\contentsline {subsection}{\numberline {2.2.1}Definici\IeC {\'o}n}{10}
+\contentsline {subsection}{\numberline {2.2.2}Tecnolog\IeC {\'\i }a de realidad aumentada}{10}
+\contentsline {subsection}{\numberline {2.2.3}Tipos de Realidad}{11}
+\contentsline {subsection}{\numberline {2.2.4}Taxonom\IeC {\'\i }a de la realidad aumentada}{11}
+\contentsline {subsection}{\numberline {2.2.5}Impacto de la realidad aumentada}{13}
+\contentsline {subsection}{\numberline {2.2.6}Plataformas de realidad aumentada para dispositivos m\IeC {\'o}vilves}{14}
+\contentsline {subsubsection}{Wikitude}{15}
+\contentsline {subsubsection}{ARKit}{16}
+\contentsline {subsubsection}{Vuforia}{17}
+\contentsline {subsubsection}{ARCore}{20}
+\contentsline {chapter}{\numberline {3}Alcance de la aplicaci\IeC {\'o}n }{24}
+\contentsline {section}{\numberline {3.1}Descripci\IeC {\'o}n general de la aplicaci\IeC {\'o}n}{24}
+\contentsline {section}{\numberline {3.2}Actores}{25}
+\contentsline {subsection}{\numberline {3.2.1}Usuario final}{25}
+\contentsline {section}{\numberline {3.3}Requerimientos de la aplicaci\IeC {\'o}n}{25}
+\contentsline {subsection}{\numberline {3.3.1}Registro de cuenta}{25}
+\contentsline {subsection}{\numberline {3.3.2}Inicio de sesi\IeC {\'o}n}{25}
+\contentsline {subsection}{\numberline {3.3.3}Recuperar contrase\IeC {\~n}a}{25}
+\contentsline {subsection}{\numberline {3.3.4}Consultar muebles}{25}
+\contentsline {subsection}{\numberline {3.3.5}Cambiar de color a mueble}{25}
+\contentsline {subsection}{\numberline {3.3.6}Crear escenario}{26}
+\contentsline {subsection}{\numberline {3.3.7}Tomar foto}{26}
+\contentsline {subsection}{\numberline {3.3.8}Visualizar escenario}{26}
+\contentsline {section}{\numberline {3.4}Casos de uso}{27}
+\contentsline {subsection}{\numberline {3.4.1}CU1 Acceso}{28}
+\contentsline {subsection}{\numberline {3.4.2}CU2 Registro}{28}
+\contentsline {subsection}{\numberline {3.4.3}CU3 Muebles}{29}
+\contentsline {subsection}{\numberline {3.4.4}CU4 Crear escenario}{29}
+\contentsline {subsection}{\numberline {3.4.5}CU5 Visualizar escenario}{30}
+\contentsline {section}{\numberline {3.5}Diagramas de secuencia}{31}
+\contentsline {subsection}{\numberline {3.5.1}Registro}{31}
+\contentsline {subsection}{\numberline {3.5.2}Login}{32}
+\contentsline {subsection}{\numberline {3.5.3}Recuperar contrase\IeC {\~n}a}{33}
+\contentsline {subsection}{\numberline {3.5.4}Gesti\IeC {\'o}n de muebles}{34}
+\contentsline {subsection}{\numberline {3.5.5}Guardar escenario}{35}
+\contentsline {subsection}{\numberline {3.5.6}Visualizar escenario}{36}
+\contentsline {chapter}{\numberline {4}Desarrollo}{37}
+\contentsline {section}{\numberline {4.1}Iteraci\IeC {\'o}n 0}{37}
+\contentsline {subsection}{\numberline {4.1.1}Exploraci\IeC {\'o}n}{37}
+\contentsline {subsubsection}{Pruebas de contexto}{38}
+\contentsline {subsubsection}{ARcore}{38}
+\contentsline {subsubsection}{Vuforia}{42}
+\contentsline {subsubsection}{Establecimiento de interesados}{46}
+\contentsline {subsubsection}{Alcance}{47}
+\contentsline {subsubsection}{Establecimiento de proyecto}{48}
+\contentsline {subsection}{\numberline {4.1.2}Inicializaci\IeC {\'o}n}{48}
+\contentsline {section}{\numberline {4.2}Iteraci\IeC {\'o}n I}{52}
+\contentsline {subsection}{\numberline {4.2.1}Resumen}{52}
+\contentsline {subsection}{\numberline {4.2.2}Desarrollo}{52}
+\contentsline {section}{\numberline {4.3}Iteraci\IeC {\'o}n II}{52}
+\contentsline {subsection}{\numberline {4.3.1}Resumen}{52}
+\contentsline {subsection}{\numberline {4.3.2}Desarrollo}{53}
+\contentsline {section}{\numberline {4.4}Iteraci\IeC {\'o}n III}{53}
+\contentsline {subsection}{\numberline {4.4.1}Resumen}{53}
+\contentsline {subsection}{\numberline {4.4.2}Desarrollo}{53}
+\contentsline {subsubsection}{Login}{54}
+\contentsline {subsubsection}{Registro}{55}
+\contentsline {subsubsection}{Guardar escenario}{55}
+\contentsline {section}{\numberline {4.5}Iteraci\IeC {\'o}n IV}{57}
+\contentsline {subsection}{\numberline {4.5.1}Resumen}{57}
+\contentsline {subsection}{\numberline {4.5.2}Desarrollo}{57}
+\contentsline {chapter}{\numberline {5}Anexos}{59}

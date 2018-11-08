@@ -1,0 +1,1339 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.24)  29 OCT 2018 14:30
+entering extended mode
+**./TT2018-A002.tex
+(TT2018-A002.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex/latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\mcarrillom\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor
+.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ ("C:\Program Files\MiKTeX 2.9\tex/latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\mcarrillom\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colo
+rtbl.sty"
+Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
+ ("C:\Program Files\MiKTeX 2.9\tex/latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen105
+\ar@mcellbox=\box26
+\extrarowheight=\dimen106
+\NC@list=\toks15
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box27
+)
+\everycr=\toks16
+\minrowclearance=\skip45
+)
+\rownum=\count89
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks19
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\geometry\geometry.cfg"))
+("C:\Users\mcarrillom\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\book
+tabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen115
+\lightrulewidth=\dimen116
+\cmidrulewidth=\dimen117
+\belowrulesep=\dimen118
+\belowbottomsep=\dimen119
+\aboverulesep=\dimen120
+\abovetopsep=\dimen121
+\cmidrulesep=\dimen122
+\cmidrulekern=\dimen123
+\defaultaddspace=\dimen124
+\@cmidla=\count93
+\@cmidlb=\count94
+\@aboverulesep=\dimen125
+\@belowrulesep=\dimen126
+\@thisruleclass=\count95
+\@lastruleclass=\count96
+\@thisrulewidth=\dimen127
+)
+("C:\Users\mcarrillom\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\capti
+on.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\mcarrillom\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\capti
+on3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen128
+\captionmargin@=\dimen129
+\captionwidth=\dimen130
+\caption@tempdima=\dimen131
+\caption@indent=\dimen132
+\caption@parindent=\dimen133
+\caption@hangindent=\dimen134
+)
+\c@caption@flags=\count97
+\c@ContinuedFloat=\count98
+) ("C:\Program Files\MiKTeX 2.9\tex/latex\multirow\multirow.sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count99
+\multirow@dima=\skip47
+\bigstrutjot=\dimen135
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks21
+\float@box=\box28
+\@float@everytoks=\toks22
+\@floatcapt=\box29
+) (TT2018-A002.aux
+(portada.aux) (resumen.aux)
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:motog6norte' multiply defined.
+
+
+LaTeX Warning: Label `fig:arqbackend' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:loginsuccess' multiply defined.
+
+
+LaTeX Warning: Label `fig:regsuccess' multiply defined.
+
+
+LaTeX Warning: Label `fig:regsuccess' multiply defined.
+
+
+LaTeX Warning: Label `fig:regsuccess' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `fig:analogo' multiply defined.
+
+
+LaTeX Warning: Label `B29' multiply defined.
+
+)
+\openout1 = `TT2018-A002.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+("C:\Users\mcarrillom\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen136
+\scratchbox=\box30
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen137
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks24
+) ("C:\Program Files\MiKTeX 2.9\tex/latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=620.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\openout2 = `portada.aux'.
+
+(portada.tex
+<imagenes/escom-ipn.png, id=1, 1078.0275pt x 490.83376pt>
+File: imagenes/escom-ipn.png Graphic file (type png)
+<use imagenes/escom-ipn.png>
+Package pdftex.def Info: imagenes/escom-ipn.png  used on input line 10.
+(pdftex.def)             Requested size: 183.26225pt x 83.44063pt.
+ [1
+
+
+{C:/Users/mcarrillom/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imag
+enes/escom-ipn.png>])
+\openout2 = `resumen.aux'.
+
+ (resumen.tex [1
+
+
+]) (TT2018-A002.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+[1
+
+
+])
+\tf@toc=\write3
+\openout3 = `TT2018-A002.toc'.
+
+ [2] (TT2018-A002.lof [3
+
+])
+\tf@lof=\write4
+\openout4 = `TT2018-A002.lof'.
+
+ [4] (TT2018-A002.lot)
+\tf@lot=\write5
+\openout5 = `TT2018-A002.lot'.
+
+ [5
+
+]
+(introduccion/introduccion.tex
+Cap\IeC {\'\i }tulo 1.
+) (introduccion/secciones/contextoDeTrabajo.tex
+<imagenes/marcoteorico/bpmn01.png, id=33, 973.6375pt x 1282.7925pt>
+File: imagenes/marcoteorico/bpmn01.png Graphic file (type png)
+<use imagenes/marcoteorico/bpmn01.png>
+Package pdftex.def Info: imagenes/marcoteorico/bpmn01.png  used on input line 1
+0.
+(pdftex.def)             Requested size: 497.92322pt x 656.01631pt.
+
+Overfull \hbox (28.1682pt too wide) in paragraph at lines 10--11
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 59.1863pt on input line 13.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (introduccion/secciones/problematica.tex)
+(introduccion/secciones/trabajoPrevio.tex [1
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/cmr/bx/n/10.95 TT 2012-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10.95 Dise~nos re-al-is-tas
+ []
+
+
+Overfull \hbox (11.21191pt too wide) in paragraph at lines 39--52
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (introduccion/secciones/solucionPropuesta.tex)
+(introduccion/secciones/objetivos.tex)
+(introduccion/secciones/justificacion.tex [2] [3])
+(marcoTeorico/marcoTeorico.tex [4] [5 <./imagenes/marcoteorico/bpmn01.png>]
+Cap\IeC {\'\i }tulo 2.
+) (marcoTeorico/secciones/disenoInteriores.tex [6
+
+]
+<imagenes/marcoteorico/disenointeriores/monocromatico.png, id=55, 1010.77625pt 
+x 996.72375pt>
+File: imagenes/marcoteorico/disenointeriores/monocromatico.png Graphic file (ty
+pe png)
+<use imagenes/marcoteorico/disenointeriores/monocromatico.png>
+Package pdftex.def Info: imagenes/marcoteorico/disenointeriores/monocromatico.p
+ng  used on input line 30.
+(pdftex.def)             Requested size: 199.16928pt x 196.39072pt.
+ [7]
+<imagenes/marcoteorico/disenointeriores/complementario.png, id=59, 976.64874pt 
+x 1030.85126pt>
+File: imagenes/marcoteorico/disenointeriores/complementario.png Graphic file (t
+ype png)
+<use imagenes/marcoteorico/disenointeriores/complementario.png>
+Package pdftex.def Info: imagenes/marcoteorico/disenointeriores/complementario.
+png  used on input line 38.
+(pdftex.def)             Requested size: 199.16928pt x 210.20908pt.
+<imagenes/marcoteorico/disenointeriores/analogo.png, id=60, 976.64874pt x 1030.
+85126pt>
+File: imagenes/marcoteorico/disenointeriores/analogo.png Graphic file (type png
+)
+<use imagenes/marcoteorico/disenointeriores/analogo.png>
+Package pdftex.def Info: imagenes/marcoteorico/disenointeriores/analogo.png  us
+ed on input line 46.
+(pdftex.def)             Requested size: 199.16928pt x 210.20908pt.
+ [8 <./imagenes/marcoteorico/disenointeriores/monocromatico.png (PNG copy)> <./
+imagenes/marcoteorico/disenointeriores/complementario.png (PNG copy)>])
+(marcoTeorico/secciones/realidadAumentada.tex [9 <./imagenes/marcoteorico/disen
+ointeriores/analogo.png (PNG copy)>]
+<imagenes/marcoteorico/ar/Mixed_Reallity.png, id=67, 595.22375pt x 166.6225pt>
+File: imagenes/marcoteorico/ar/Mixed_Reallity.png Graphic file (type png)
+<use imagenes/marcoteorico/ar/Mixed_Reallity.png>
+Package pdftex.def Info: imagenes/marcoteorico/ar/Mixed_Reallity.png  used on i
+nput line 14.
+(pdftex.def)             Requested size: 284.52345pt x 99.58527pt.
+ [10 <./imagenes/marcoteorico/ar/Mixed_Reallity.png>]
+<imagenes/marcoteorico/ar/tecnologyAR.png, id=72, 536.75531pt x 379.4175pt>
+File: imagenes/marcoteorico/ar/tecnologyAR.png Graphic file (type png)
+<use imagenes/marcoteorico/ar/tecnologyAR.png>
+Package pdftex.def Info: imagenes/marcoteorico/ar/tecnologyAR.png  used on inpu
+t line 33.
+(pdftex.def)             Requested size: 312.9809pt x 227.6233pt.
+<imagenes/marcoteorico/ar/visionAR.png, id=73, 643.6547pt x 355.3275pt>
+File: imagenes/marcoteorico/ar/visionAR.png Graphic file (type png)
+<use imagenes/marcoteorico/ar/visionAR.png>
+Package pdftex.def Info: imagenes/marcoteorico/ar/visionAR.png  used on input l
+ine 44.
+(pdftex.def)             Requested size: 483.71214pt x 284.53346pt.
+
+Overfull \hbox (13.95712pt too wide) in paragraph at lines 44--45
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./imagenes/marcoteorico/ar/tecnologyAR.png>]
+<imagenes/marcoteorico/ar/taxonomiaAR.png, id=78, 1499.6025pt x 793.96625pt>
+File: imagenes/marcoteorico/ar/taxonomiaAR.png Graphic file (type png)
+<use imagenes/marcoteorico/ar/taxonomiaAR.png>
+Package pdftex.def Info: imagenes/marcoteorico/ar/taxonomiaAR.png  used on inpu
+t line 54.
+(pdftex.def)             Requested size: 483.68103pt x 284.53133pt.
+
+Overfull \hbox (13.92601pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./imagenes/marcoteorico/ar/visionAR.png>] [13 <./imagenes/marcoteorico/ar/
+taxonomiaAR.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 86.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
+
+[14] [15] [16] [17]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 217.
+
+
+LaTeX Warning: Float too large for page by 18.36952pt on input line 269.
+
+[18] [19]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 271.
+
+[20] [21] [22]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 356.
+
+) (analisis/analisis.tex [23]
+Cap\IeC {\'\i }tulo 3.
+) (analisis/secciones/descripcionGeneral.tex) (analisis/secciones/actores.tex
+[24
+
+]) (analisis/secciones/requisitosFuncionales.tex [25])
+(analisis/secciones/casosDeUso.tex [26]
+<imagenes/analisis/casosDeUso.jpg, id=131, 654.445pt x 723.70375pt>
+File: imagenes/analisis/casosDeUso.jpg Graphic file (type jpg)
+<use imagenes/analisis/casosDeUso.jpg>
+Package pdftex.def Info: imagenes/analisis/casosDeUso.jpg  used on input line 8
+.
+(pdftex.def)             Requested size: 426.79224pt x 483.69742pt.
+ [27 <./imagenes/analisis/casosDeUso.jpg>]
+<imagenes/analisis/login.jpg, id=135, 510.90875pt x 261.97874pt>
+File: imagenes/analisis/login.jpg Graphic file (type jpg)
+<use imagenes/analisis/login.jpg>
+Package pdftex.def Info: imagenes/analisis/login.jpg  used on input line 18.
+(pdftex.def)             Requested size: 341.42615pt x 170.71988pt.
+<imagenes/analisis/registrarUsuario.jpg, id=136, 544.0325pt x 287.0725pt>
+File: imagenes/analisis/registrarUsuario.jpg Graphic file (type jpg)
+<use imagenes/analisis/registrarUsuario.jpg>
+Package pdftex.def Info: imagenes/analisis/registrarUsuario.jpg  used on input 
+line 27.
+(pdftex.def)             Requested size: 341.4473pt x 170.72046pt.
+
+Overfull \hbox (0.60593pt too wide) in paragraph at lines 24--31
+[]\OT1/cmr/m/n/10.95 El reg-istro de la in-for-macion de un usuario, los datos
+ reg-istra-dos son el nom-bre, correo electronico
+ []
+
+[28 <./imagenes/analisis/login.jpg> <./imagenes/analisis/registrarUsuario.jpg>]
+<imagenes/analisis/seleccionarMueble.jpg, id=140, 473.77pt x 232.87pt>
+File: imagenes/analisis/seleccionarMueble.jpg Graphic file (type jpg)
+<use imagenes/analisis/seleccionarMueble.jpg>
+Package pdftex.def Info: imagenes/analisis/seleccionarMueble.jpg  used on input
+ line 36.
+(pdftex.def)             Requested size: 341.43945pt x 170.72209pt.
+<imagenes/analisis/crearEscenario.jpg, id=141, 616.3025pt x 316.18124pt>
+File: imagenes/analisis/crearEscenario.jpg Graphic file (type jpg)
+<use imagenes/analisis/crearEscenario.jpg>
+Package pdftex.def Info: imagenes/analisis/crearEscenario.jpg  used on input li
+ne 45.
+(pdftex.def)             Requested size: 341.44067pt x 170.72084pt.
+[29 <./imagenes/analisis/seleccionarMueble.jpg> <./imagenes/analisis/crearEscen
+ario.jpg>]
+<imagenes/analisis/visualizarEscenario.jpg, id=145, 507.8975pt x 231.86626pt>
+File: imagenes/analisis/visualizarEscenario.jpg Graphic file (type jpg)
+<use imagenes/analisis/visualizarEscenario.jpg>
+Package pdftex.def Info: imagenes/analisis/visualizarEscenario.jpg  used on inp
+ut line 55.
+(pdftex.def)             Requested size: 341.44429pt x 170.7186pt.
+) (analisis/secciones/diagramasSecuencia.tex [30 <./imagenes/analisis/visualiza
+rEscenario.jpg>]
+<imagenes/analisis/DSregistrarUsuario.jpg, id=150, 740.7675pt x 425.59pt>
+File: imagenes/analisis/DSregistrarUsuario.jpg Graphic file (type jpg)
+<use imagenes/analisis/DSregistrarUsuario.jpg>
+Package pdftex.def Info: imagenes/analisis/DSregistrarUsuario.jpg  used on inpu
+t line 9.
+(pdftex.def)             Requested size: 398.34692pt x 227.6267pt.
+ [31 <./imagenes/analisis/DSregistrarUsuario.jpg>]
+<imagenes/analisis/DSacceso.jpg, id=154, 729.72626pt x 397.485pt>
+File: imagenes/analisis/DSacceso.jpg Graphic file (type jpg)
+<use imagenes/analisis/DSacceso.jpg>
+Package pdftex.def Info: imagenes/analisis/DSacceso.jpg  used on input line 21.
+
+(pdftex.def)             Requested size: 398.33318pt x 227.63019pt.
+
+[32 <./imagenes/analisis/DSacceso.jpg>]
+<imagenes/analisis/DSrecuperarContra.jpg, id=158, 722.7pt x 397.485pt>
+File: imagenes/analisis/DSrecuperarContra.jpg Graphic file (type jpg)
+<use imagenes/analisis/DSrecuperarContra.jpg>
+Package pdftex.def Info: imagenes/analisis/DSrecuperarContra.jpg  used on input
+ line 33.
+(pdftex.def)             Requested size: 398.33534pt x 227.63019pt.
+ [33 <./imagenes/analisis/DSrecuperarContra.jpg>]
+<imagenes/analisis/DSgestionMuebles.jpg, id=162, 695.59875pt x 435.6275pt>
+File: imagenes/analisis/DSgestionMuebles.jpg Graphic file (type jpg)
+<use imagenes/analisis/DSgestionMuebles.jpg>
+Package pdftex.def Info: imagenes/analisis/DSgestionMuebles.jpg  used on input 
+line 45.
+(pdftex.def)             Requested size: 398.33163pt x 227.61772pt.
+ [34 <./imagenes/analisis/DSgestionMuebles.jpg>]
+<imagenes/analisis/DSguardarEscenario.jpg, id=166, 689.57625pt x 372.39125pt>
+File: imagenes/analisis/DSguardarEscenario.jpg Graphic file (type jpg)
+<use imagenes/analisis/DSguardarEscenario.jpg>
+Package pdftex.def Info: imagenes/analisis/DSguardarEscenario.jpg  used on inpu
+t line 57.
+(pdftex.def)             Requested size: 398.34462pt x 227.62994pt.
+ [35 <./imagenes/analisis/DSguardarEscenario.jpg>]
+<imagenes/analisis/DSvisualizarEscenario.jpg, id=170, 690.58pt x 372.39125pt>
+File: imagenes/analisis/DSvisualizarEscenario.jpg Graphic file (type jpg)
+<use imagenes/analisis/DSvisualizarEscenario.jpg>
+Package pdftex.def Info: imagenes/analisis/DSvisualizarEscenario.jpg  used on i
+nput line 69.
+(pdftex.def)             Requested size: 398.3449pt x 227.62994pt.
+) (desarrollo/desarrollo.tex [36 <./imagenes/analisis/DSvisualizarEscenario.jpg
+>]
+Cap\IeC {\'\i }tulo 4.
+) (desarrollo/secciones/exploracion.tex [37
+
+]
+(desarrollo/secciones/pruebas/motog6/pruebas.tex [38]
+<desarrollo/secciones/pruebas/motog6/img/NORTE.png, id=181, 808.52063pt x 554.8
+2281pt>
+File: desarrollo/secciones/pruebas/motog6/img/NORTE.png Graphic file (type png)
+
+<use desarrollo/secciones/pruebas/motog6/img/NORTE.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/NORTE.png  use
+d on input line 24.
+(pdftex.def)             Requested size: 227.62204pt x 156.1959pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 24--25
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/SUR.png, id=182, 578.91281pt x 530.732
+82pt>
+File: desarrollo/secciones/pruebas/motog6/img/SUR.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/motog6/img/SUR.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/SUR.png  used 
+on input line 30.
+(pdftex.def)             Requested size: 227.62204pt x 208.6775pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/ESTE.png, id=183, 691.08188pt x 598.48
+593pt>
+File: desarrollo/secciones/pruebas/motog6/img/ESTE.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/motog6/img/ESTE.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/ESTE.png  used
+ on input line 39.
+(pdftex.def)             Requested size: 227.62204pt x 197.11742pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/OESTE.png, id=184, 808.52063pt x 560.8
+453pt>
+File: desarrollo/secciones/pruebas/motog6/img/OESTE.png Graphic file (type png)
+
+<use desarrollo/secciones/pruebas/motog6/img/OESTE.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/OESTE.png  use
+d on input line 45.
+(pdftex.def)             Requested size: 227.62204pt x 157.89139pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 45--46
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/CERCA.png, id=185, 794.97pt x 779.9137
+6pt>
+File: desarrollo/secciones/pruebas/motog6/img/CERCA.png Graphic file (type png)
+
+<use desarrollo/secciones/pruebas/motog6/img/CERCA.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/CERCA.png  use
+d on input line 58.
+(pdftex.def)             Requested size: 227.62204pt x 223.31308pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 58--59
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/LUZALTA.png, id=186, 802.49812pt x 578
+.91281pt>
+File: desarrollo/secciones/pruebas/motog6/img/LUZALTA.png Graphic file (type pn
+g)
+<use desarrollo/secciones/pruebas/motog6/img/LUZALTA.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/LUZALTA.png  u
+sed on input line 64.
+(pdftex.def)             Requested size: 227.62204pt x 164.20567pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 64--65
+ [][] 
+ []
+
+[39 <./desarrollo/secciones/pruebas/motog6/img/NORTE.png> <./desarrollo/seccion
+es/pruebas/motog6/img/SUR.png> <./desarrollo/secciones/pruebas/motog6/img/ESTE.
+png> <./desarrollo/secciones/pruebas/motog6/img/OESTE.png>]
+<desarrollo/secciones/pruebas/motog6/img/LUZBAJA.png, id=194, 805.50937pt x 726
+.46407pt>
+File: desarrollo/secciones/pruebas/motog6/img/LUZBAJA.png Graphic file (type pn
+g)
+<use desarrollo/secciones/pruebas/motog6/img/LUZBAJA.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/LUZBAJA.png  u
+sed on input line 76.
+(pdftex.def)             Requested size: 227.62204pt x 205.2819pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 76--77
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/LUZMEDIA.png, id=195, 805.50937pt x 55
+7.83406pt>
+File: desarrollo/secciones/pruebas/motog6/img/LUZMEDIA.png Graphic file (type p
+ng)
+<use desarrollo/secciones/pruebas/motog6/img/LUZMEDIA.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/LUZMEDIA.png  
+used on input line 82.
+(pdftex.def)             Requested size: 227.62204pt x 157.63097pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+[40 <./desarrollo/secciones/pruebas/motog6/img/CERCA.png> <./desarrollo/seccion
+es/pruebas/motog6/img/LUZALTA.png> <./desarrollo/secciones/pruebas/motog6/img/L
+UZBAJA.png> <./desarrollo/secciones/pruebas/motog6/img/LUZMEDIA.png>]
+<desarrollo/secciones/pruebas/motog6/img/CONCRETO.png, id=203, 349.305pt x 328.
+97906pt>
+File: desarrollo/secciones/pruebas/motog6/img/CONCRETO.png Graphic file (type p
+ng)
+<use desarrollo/secciones/pruebas/motog6/img/CONCRETO.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/CONCRETO.png  
+used on input line 98.
+(pdftex.def)             Requested size: 227.62204pt x 214.38101pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 98--99
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/SUPBLANCA.png, id=204, 750.55406pt x 6
+66.23906pt>
+File: desarrollo/secciones/pruebas/motog6/img/SUPBLANCA.png Graphic file (type 
+png)
+<use desarrollo/secciones/pruebas/motog6/img/SUPBLANCA.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/SUPBLANCA.png 
+ used on input line 104.
+(pdftex.def)             Requested size: 227.62204pt x 202.04877pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 104--105
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/SUPERFICIENEGRA.png, id=205, 809.27344
+pt x 795.72281pt>
+File: desarrollo/secciones/pruebas/motog6/img/SUPERFICIENEGRA.png Graphic file 
+(type png)
+<use desarrollo/secciones/pruebas/motog6/img/SUPERFICIENEGRA.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/SUPERFICIENEGR
+A.png  used on input line 113.
+(pdftex.def)             Requested size: 227.62204pt x 223.80862pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 113--114
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/motog6/img/VIDRIO.png, id=206, 805.50937pt x 1096
+.84781pt>
+File: desarrollo/secciones/pruebas/motog6/img/VIDRIO.png Graphic file (type png
+)
+<use desarrollo/secciones/pruebas/motog6/img/VIDRIO.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/VIDRIO.png  us
+ed on input line 119.
+(pdftex.def)             Requested size: 170.71652pt x 232.45364pt.
+[41 <./desarrollo/secciones/pruebas/motog6/img/CONCRETO.png> <./desarrollo/secc
+iones/pruebas/motog6/img/SUPBLANCA.png> <./desarrollo/secciones/pruebas/motog6/
+img/SUPERFICIENEGRA.png> <./desarrollo/secciones/pruebas/motog6/img/VIDRIO.png>
+]
+<desarrollo/secciones/pruebas/motog6/img/CANTIDAD.png, id=214, 808.52063pt x 12
+50.42157pt>
+File: desarrollo/secciones/pruebas/motog6/img/CANTIDAD.png Graphic file (type p
+ng)
+<use desarrollo/secciones/pruebas/motog6/img/CANTIDAD.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/CANTIDAD.png  
+used on input line 134.
+(pdftex.def)             Requested size: 142.26378pt x 220.01pt.
+<desarrollo/secciones/pruebas/motog6/img/DISTANCIA.png, id=215, 1084.05pt x 216
+8.1pt>
+File: desarrollo/secciones/pruebas/motog6/img/DISTANCIA.png Graphic file (type 
+png)
+<use desarrollo/secciones/pruebas/motog6/img/DISTANCIA.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/motog6/img/DISTANCIA.png 
+ used on input line 141.
+(pdftex.def)             Requested size: 142.26378pt x 284.50949pt.
+) (desarrollo/secciones/pruebas/Vuforia/pruebas.tex [42 <./desarrollo/secciones
+/pruebas/motog6/img/CANTIDAD.png> <./desarrollo/secciones/pruebas/motog6/img/DI
+STANCIA.png>]
+<desarrollo/secciones/pruebas/Vuforia/img/2.png, id=221, 361.35pt x 328.22626pt
+>
+File: desarrollo/secciones/pruebas/Vuforia/img/2.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/2.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/2.png  used o
+n input line 24.
+(pdftex.def)             Requested size: 170.71652pt x 155.06769pt.
+<desarrollo/secciones/pruebas/Vuforia/img/6.png, id=222, 308.65312pt x 406.5187
+5pt>
+File: desarrollo/secciones/pruebas/Vuforia/img/6.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/6.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/6.png  used o
+n input line 30.
+(pdftex.def)             Requested size: 170.71652pt x 224.8514pt.
+<desarrollo/secciones/pruebas/Vuforia/img/11.png, id=223, 331.2375pt x 504.3843
+7pt>
+File: desarrollo/secciones/pruebas/Vuforia/img/11.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/11.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/11.png  used 
+on input line 39.
+(pdftex.def)             Requested size: 170.71652pt x 259.9494pt.
+<desarrollo/secciones/pruebas/Vuforia/img/1.png, id=224, 331.2375pt x 529.98pt>
+
+File: desarrollo/secciones/pruebas/Vuforia/img/1.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/1.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/1.png  used o
+n input line 45.
+(pdftex.def)             Requested size: 170.71652pt x 273.14087pt.
+ [43 <./desarrollo/secciones/pruebas/Vuforia/img/2.png> <./desarrollo/secciones
+/pruebas/Vuforia/img/6.png>]
+<desarrollo/secciones/pruebas/Vuforia/img/4.png, id=230, 212.29312pt x 263.4843
+8pt>
+File: desarrollo/secciones/pruebas/Vuforia/img/4.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/4.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/4.png  used o
+n input line 60.
+(pdftex.def)             Requested size: 170.71652pt x 211.89339pt.
+<desarrollo/secciones/pruebas/Vuforia/img/8.png, id=231, 189.70876pt x 492.3393
+7pt>
+File: desarrollo/secciones/pruebas/Vuforia/img/8.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/8.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/8.png  used o
+n input line 66.
+(pdftex.def)             Requested size: 85.35826pt x 221.52812pt.
+ [44 <./desarrollo/secciones/pruebas/Vuforia/img/11.png> <./desarrollo/seccione
+s/pruebas/Vuforia/img/1.png> <./desarrollo/secciones/pruebas/Vuforia/img/4.png>
+ <./desarrollo/secciones/pruebas/Vuforia/img/8.png>]
+<desarrollo/secciones/pruebas/Vuforia/img/3.png, id=239, 352.31625pt x 423.0806
+3pt>
+File: desarrollo/secciones/pruebas/Vuforia/img/3.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/3.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/3.png  used o
+n input line 78.
+(pdftex.def)             Requested size: 227.62204pt x 273.34003pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 78--79
+ [][] 
+ []
+
+<desarrollo/secciones/pruebas/Vuforia/img/9.png, id=240, 361.35pt x 427.5975pt>
+
+File: desarrollo/secciones/pruebas/Vuforia/img/9.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/9.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/9.png  used o
+n input line 84.
+(pdftex.def)             Requested size: 227.62204pt x 269.35522pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 84--85
+ [][] 
+ []
+
+File: desarrollo/secciones/pruebas/Vuforia/img/4.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/4.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/4.png  used o
+n input line 93.
+(pdftex.def)             Requested size: 170.71652pt x 211.89339pt.
+[45 <./desarrollo/secciones/pruebas/Vuforia/img/3.png> <./desarrollo/secciones/
+pruebas/Vuforia/img/9.png>]
+<desarrollo/secciones/pruebas/Vuforia/img/12.png, id=246, 776.9025pt x 671.5087
+4pt>
+File: desarrollo/secciones/pruebas/Vuforia/img/12.png Graphic file (type png)
+<use desarrollo/secciones/pruebas/Vuforia/img/12.png>
+Package pdftex.def Info: desarrollo/secciones/pruebas/Vuforia/img/12.png  used 
+on input line 105.
+(pdftex.def)             Requested size: 227.62204pt x 196.74084pt.
+
+Overfull \hbox (2.14165pt too wide) in paragraph at lines 105--106
+ [][] 
+ []
+
+) [46 <./desarrollo/secciones/pruebas/Vuforia/img/12.png (PNG copy)>] [47])
+(desarrollo/secciones/inicializacion.tex [48]
+<imagenes/desarrollo/arquitectura/ArchitecturaBackend.png, id=257, 687.56876pt 
+x 751.80875pt>
+File: imagenes/desarrollo/arquitectura/ArchitecturaBackend.png Graphic file (ty
+pe png)
+<use imagenes/desarrollo/arquitectura/ArchitecturaBackend.png>
+Package pdftex.def Info: imagenes/desarrollo/arquitectura/ArchitecturaBackend.p
+ng  used on input line 44.
+(pdftex.def)             Requested size: 426.79181pt x 426.8032pt.
+ [49]
+<imagenes/desarrollo/arquitectura/ERD.png, id=261, 338.76563pt x 208.52907pt>
+File: imagenes/desarrollo/arquitectura/ERD.png Graphic file (type png)
+<use imagenes/desarrollo/arquitectura/ERD.png>
+Package pdftex.def Info: imagenes/desarrollo/arquitectura/ERD.png  used on inpu
+t line 52.
+(pdftex.def)             Requested size: 284.53532pt x 199.18015pt.
+ [50 <./imagenes/desarrollo/arquitectura/ArchitecturaBackend.png (PNG copy)>]
+<imagenes/iteraciones/AR1.png, id=265, 481.8pt x 963.6pt>
+File: imagenes/iteraciones/AR1.png Graphic file (type png)
+<use imagenes/iteraciones/AR1.png>
+Package pdftex.def Info: imagenes/iteraciones/AR1.png  used on input line 64.
+(pdftex.def)             Requested size: 142.26378pt x 284.5242pt.
+)
+(desarrollo/secciones/iteracion01.tex [51 <./imagenes/desarrollo/arquitectura/E
+RD.png> <./imagenes/iteraciones/AR1.png (PNG copy)>]
+<imagenes/iteraciones/AR2.png, id=269, 481.8pt x 963.6pt>
+File: imagenes/iteraciones/AR2.png Graphic file (type png)
+<use imagenes/iteraciones/AR2.png>
+Package pdftex.def Info: imagenes/iteraciones/AR2.png  used on input line 8.
+(pdftex.def)             Requested size: 227.62228pt x 341.4261pt.
+)
+(desarrollo/secciones/iteracion02.tex
+<imagenes/iteraciones/AR3.png, id=270, 481.8pt x 963.6pt>
+File: imagenes/iteraciones/AR3.png Graphic file (type png)
+<use imagenes/iteraciones/AR3.png>
+Package pdftex.def Info: imagenes/iteraciones/AR3.png  used on input line 8.
+(pdftex.def)             Requested size: 227.62228pt x 398.328pt.
+ [52 <./imagenes/iteraciones/AR2.png (PNG copy)>]) (desarrollo/secciones/iterac
+ion03.tex
+<imagenes/desarrollo/diagramas/BPMN_LOGIN.png, id=274, 442.65375pt x 294.34969p
+t>
+File: imagenes/desarrollo/diagramas/BPMN_LOGIN.png Graphic file (type png)
+<use imagenes/desarrollo/diagramas/BPMN_LOGIN.png>
+Package pdftex.def Info: imagenes/desarrollo/diagramas/BPMN_LOGIN.png  used on 
+input line 15.
+(pdftex.def)             Requested size: 426.8137pt x 256.07765pt.
+ [53 <./imagenes/iteraciones/AR3.png (PNG copy)>]
+<imagenes/desarrollo/arquitectura/LOGIN_SUCCESS.png, id=278, 710.655pt x 129.48
+375pt>
+File: imagenes/desarrollo/arquitectura/LOGIN_SUCCESS.png Graphic file (type png
+)
+<use imagenes/desarrollo/arquitectura/LOGIN_SUCCESS.png>
+Package pdftex.def Info: imagenes/desarrollo/arquitectura/LOGIN_SUCCESS.png  us
+ed on input line 22.
+(pdftex.def)             Requested size: 426.7975pt x 99.58818pt.
+<imagenes/desarrollo/arquitectura/LOGIN_FAIL.png, id=279, 642.90187pt x 132.495
+pt>
+File: imagenes/desarrollo/arquitectura/LOGIN_FAIL.png Graphic file (type png)
+<use imagenes/desarrollo/arquitectura/LOGIN_FAIL.png>
+Package pdftex.def Info: imagenes/desarrollo/arquitectura/LOGIN_FAIL.png  used 
+on input line 30.
+(pdftex.def)             Requested size: 426.79845pt x 99.58528pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[54 <./imagenes/desarrollo/diagramas/BPMN_LOGIN.png> <./imagenes/desarrollo/arq
+uitectura/LOGIN_SUCCESS.png>]
+<imagenes/desarrollo/diagramas/BPMN_REGISTRAR_CUENTA.png, id=284, 615.0478pt x 
+288.3272pt>
+File: imagenes/desarrollo/diagramas/BPMN_REGISTRAR_CUENTA.png Graphic file (typ
+e png)
+<use imagenes/desarrollo/diagramas/BPMN_REGISTRAR_CUENTA.png>
+Package pdftex.def Info: imagenes/desarrollo/diagramas/BPMN_REGISTRAR_CUENTA.pn
+g  used on input line 39.
+(pdftex.def)             Requested size: 426.79536pt x 199.17474pt.
+<imagenes/desarrollo/arquitectura/REGISTER_SUCCESS.png, id=285, 645.16031pt x 1
+30.98938pt>
+File: imagenes/desarrollo/arquitectura/REGISTER_SUCCESS.png Graphic file (type 
+png)
+<use imagenes/desarrollo/arquitectura/REGISTER_SUCCESS.png>
+Package pdftex.def Info: imagenes/desarrollo/arquitectura/REGISTER_SUCCESS.png 
+ used on input line 49.
+(pdftex.def)             Requested size: 426.79155pt x 99.58693pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/desarrollo/diagramas/BPMN_STORESC.png, id=286, 570.63188pt x 293.5968
+8pt>
+File: imagenes/desarrollo/diagramas/BPMN_STORESC.png Graphic file (type png)
+<use imagenes/desarrollo/diagramas/BPMN_STORESC.png>
+Package pdftex.def Info: imagenes/desarrollo/diagramas/BPMN_STORESC.png  used o
+n input line 59.
+(pdftex.def)             Requested size: 369.88759pt x 199.16835pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[55 <./imagenes/desarrollo/arquitectura/LOGIN_FAIL.png> <./imagenes/desarrollo/
+diagramas/BPMN_REGISTRAR_CUENTA.png>]
+<imagenes/desarrollo/arquitectura/STORESC_SUCCESS.png, id=290, 703.87968pt x 17
+2.39406pt>
+File: imagenes/desarrollo/arquitectura/STORESC_SUCCESS.png Graphic file (type p
+ng)
+<use imagenes/desarrollo/arquitectura/STORESC_SUCCESS.png>
+Package pdftex.def Info: imagenes/desarrollo/arquitectura/STORESC_SUCCESS.png  
+used on input line 68.
+(pdftex.def)             Requested size: 426.7883pt x 99.58615pt.
+) (desarrollo/secciones/iteracion04.tex
+[56 <./imagenes/desarrollo/arquitectura/REGISTER_SUCCESS.png> <./imagenes/desar
+rollo/diagramas/BPMN_STORESC.png>]
+Overfull \hbox (0.9405pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/10.95 Se mod-e-laron dos mue-bles mas, uti-lizando la misma her
+-ramienta, obte-niendo los mis-mos archivos
+ []
+
+<imagenes/iteraciones/all.png, id=294, 481.8pt x 963.6pt>
+File: imagenes/iteraciones/all.png Graphic file (type png)
+<use imagenes/iteraciones/all.png>
+Package pdftex.def Info: imagenes/iteraciones/all.png  used on input line 13.
+(pdftex.def)             Requested size: 113.81114pt x 227.6223pt.
+[57 <./imagenes/desarrollo/arquitectura/STORESC_SUCCESS.png> <./imagenes/iterac
+iones/all.png (PNG copy)>]
+<imagenes/iteraciones/save1.png, id=298, 481.8pt x 963.6pt>
+File: imagenes/iteraciones/save1.png Graphic file (type png)
+<use imagenes/iteraciones/save1.png>
+Package pdftex.def Info: imagenes/iteraciones/save1.png  used on input line 23.
+
+(pdftex.def)             Requested size: 142.26208pt x 284.5242pt.
+<imagenes/iteraciones/foto.jpg, id=299, 580.1675pt x 963.6pt>
+File: imagenes/iteraciones/foto.jpg Graphic file (type jpg)
+<use imagenes/iteraciones/foto.jpg>
+Package pdftex.def Info: imagenes/iteraciones/foto.jpg  used on input line 29.
+(pdftex.def)             Requested size: 142.26178pt x 284.5242pt.
+) (Anexos/Mockup.tex [58 <./imagenes/iteraciones/save1.png (PNG copy)> <./image
+nes/iteraciones/foto.jpg>]
+Cap\IeC {\'\i }tulo 5.
+<imagenes/Anexos/Mockup/1-Login.PNG, id=303, 200.24812pt x 359.09157pt>
+File: imagenes/Anexos/Mockup/1-Login.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/1-Login.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/1-Login.PNG  used on input line
+ 7.
+(pdftex.def)             Requested size: 113.8126pt x 227.6261pt.
+<imagenes/Anexos/Mockup/2-principalSinLogin.png, id=304, 203.25937pt x 359.0915
+7pt>
+File: imagenes/Anexos/Mockup/2-principalSinLogin.png Graphic file (type png)
+<use imagenes/Anexos/Mockup/2-principalSinLogin.png>
+Package pdftex.def Info: imagenes/Anexos/Mockup/2-principalSinLogin.png  used o
+n input line 13.
+(pdftex.def)             Requested size: 113.80896pt x 227.6261pt.
+<imagenes/Anexos/Mockup/3-MenuMuebles.PNG, id=305, 201.00093pt x 360.59718pt>
+File: imagenes/Anexos/Mockup/3-MenuMuebles.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/3-MenuMuebles.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/3-MenuMuebles.PNG  used on inpu
+t line 22.
+(pdftex.def)             Requested size: 113.81108pt x 227.62311pt.
+<imagenes/Anexos/Mockup/4-principalLogin.png, id=306, 271.0125pt x 478.78876pt>
+
+File: imagenes/Anexos/Mockup/4-principalLogin.png Graphic file (type png)
+<use imagenes/Anexos/Mockup/4-principalLogin.png>
+Package pdftex.def Info: imagenes/Anexos/Mockup/4-principalLogin.png  used on i
+nput line 28.
+(pdftex.def)             Requested size: 113.81206pt x 227.62427pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/Anexos/Mockup/5-GuardarEscenario.PNG, id=307, 201.75375pt x 359.09157
+pt>
+File: imagenes/Anexos/Mockup/5-GuardarEscenario.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/5-GuardarEscenario.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/5-GuardarEscenario.PNG  used on
+ input line 37.
+(pdftex.def)             Requested size: 113.81252pt x 227.6261pt.
+<imagenes/Anexos/Mockup/6-MisEscenarios.PNG, id=308, 271.0125pt x 478.78876pt>
+File: imagenes/Anexos/Mockup/6-MisEscenarios.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/6-MisEscenarios.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/6-MisEscenarios.PNG  used on in
+put line 43.
+(pdftex.def)             Requested size: 113.81206pt x 227.62427pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/Anexos/Mockup/7-Foto.PNG, id=309, 271.0125pt x 478.78876pt>
+File: imagenes/Anexos/Mockup/7-Foto.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/7-Foto.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/7-Foto.PNG  used on input line 
+52.
+(pdftex.def)             Requested size: 113.81206pt x 227.62427pt.
+<imagenes/Anexos/Mockup/8-Registro.PNG, id=310, 271.0125pt x 478.78876pt>
+File: imagenes/Anexos/Mockup/8-Registro.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/8-Registro.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/8-Registro.PNG  used on input l
+ine 58.
+(pdftex.def)             Requested size: 113.81206pt x 227.62427pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/Anexos/Mockup/9-RecuperarP.PNG, id=311, 271.0125pt x 478.78876pt>
+File: imagenes/Anexos/Mockup/9-RecuperarP.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/9-RecuperarP.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/9-RecuperarP.PNG  used on input
+ line 67.
+(pdftex.def)             Requested size: 113.81206pt x 227.62427pt.
+<imagenes/Anexos/Mockup/10-RecuperarP2.PNG, id=312, 271.0125pt x 478.78876pt>
+File: imagenes/Anexos/Mockup/10-RecuperarP2.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/10-RecuperarP2.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/10-RecuperarP2.PNG  used on inp
+ut line 73.
+(pdftex.def)             Requested size: 113.81206pt x 227.62427pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/Anexos/Mockup/11-ActualizarP.PNG, id=313, 201.00093pt x 359.09157pt>
+File: imagenes/Anexos/Mockup/11-ActualizarP.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/11-ActualizarP.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/11-ActualizarP.PNG  used on inp
+ut line 82.
+(pdftex.def)             Requested size: 113.81108pt x 227.6261pt.
+<imagenes/Anexos/Mockup/12-VerEscenario.PNG, id=314, 271.0125pt x 478.78876pt>
+File: imagenes/Anexos/Mockup/12-VerEscenario.PNG Graphic file (type png)
+<use imagenes/Anexos/Mockup/12-VerEscenario.PNG>
+Package pdftex.def Info: imagenes/Anexos/Mockup/12-VerEscenario.PNG  used on in
+put line 88.
+(pdftex.def)             Requested size: 113.81206pt x 227.62427pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (bibliografia/bibliografia.tex [59
+
+ <./imagenes/Anexos/Mockup/1-Login.PNG> <./imagenes/Anexos/Mockup/2-principalSi
+nLogin.png>] [60 <./imagenes/Anexos/Mockup/3-MenuMuebles.PNG> <./imagenes/Anexo
+s/Mockup/4-principalLogin.png (PNG copy)> <./imagenes/Anexos/Mockup/5-GuardarEs
+cenario.PNG> <./imagenes/Anexos/Mockup/6-MisEscenarios.PNG>] [61 <./imagenes/An
+exos/Mockup/7-Foto.PNG> <./imagenes/Anexos/Mockup/8-Registro.PNG> <./imagenes/A
+nexos/Mockup/9-RecuperarP.PNG> <./imagenes/Anexos/Mockup/10-RecuperarP2.PNG>] [
+62 <./imagenes/Anexos/Mockup/11-ActualizarP.PNG> <./imagenes/Anexos/Mockup/12-V
+erEscenario.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\OT1/cmr/m/n/10.95 "FAQ for de-sign-ers", \OT1/cmr/m/it/10.95 Whats is In-te-
+rior De-sign\OT1/cmr/m/n/10.95 , In-te-rior De-sign Leg-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+\OT1/cmr/m/n/10.95 isla-tive Coali-tion of Penn-syl-va-nia (IDL-CPA), 2011. Re-
+cu-per-ado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+[]\OT1/cmr/m/sc/10.95 Buerli, Mike \OT1/cmr/m/n/10.95 and \OT1/cmr/m/sc/10.95 M
+isslinger, Ste-fan\OT1/cmr/m/n/10.95 , "In-tro-duc-ing ARKit",
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+\OT1/cmr/m/it/10.95 Aug-mented Re-al-ity for iOS. Ses-sion 602 \OT1/cmr/m/n/10.
+95 Re-cu-per-ado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+\OT1/cmr/m/n/10.95 https://devstreaming-cdn.apple.com/videos/wwdc/2017/602pxa6f
+2vw71ze/602/602
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 22--23
+[]\OT1/cmr/m/sc/10.95 Strandmark, Pet-ter\OT1/cmr/m/n/10.95 , "Aug-mented re-al
+-ity with the AR-ToolKit", Re-cu-per-ado de:
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 26--27
+[]\OT1/cmr/m/sc/10.95 Monteiro, Paula \OT1/cmr/m/n/10.95 and \OT1/cmr/m/sc/10.9
+5 Nagele, Alek-san-dra\OT1/cmr/m/n/10.95 , "Wik-i-tude" \OT1/cmr/m/sc/10.95 Com
+-pany Overview\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+\OT1/cmr/m/n/10.95 Re-cu-per-ado de: https://s3-eu-west-1.amazonaws.com/wikitud
+e-web-hosting/static-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+[]\OT1/cmr/m/sc/10.95 Kaleda, Yuliya\OT1/cmr/m/n/10.95 , "Add Re-al-ity to App 
+with AR-Core". Re-cu-per-ado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+\OT1/cmr/m/n/10.95 https://downloads.ctfassets.net/2grufn031spf/7AyZDCxxIs0AoOg
+wOsy0m4/26f89f9d2
+ []
+
+[63
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]\OT1/cmr/m/n/10.95 "ARCore Overview", 2 de agosto de 2018. Re-cu-per-ado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]\OT1/cmr/m/n/10.95 "Wikitude Prod-ucts", 29 de agosto de 2018. Re-cu-per-ado 
+de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+[]\OT1/cmr/m/n/10.95 "Artoolkit Doc-u-men-ta-tion", 29 de agosto de 2018. Re-cu
+-per-ado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+[]\OT1/cmr/m/n/10.95 "OpenGL Doc-u-men-ta-tion", 30 de agosto de 2018. Re-cu-pe
+r-ado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+[]\OT1/cmr/m/n/10.95 "OpenGL Glut", 30 de agosto de 2018. Re-cu-per-ado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+[]\OT1/cmr/m/n/10.95 "ARKit Doc-u-men-ta-tion", 3 de Sep-tiem-bre de 2018. Re-c
+u-per-ado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+[]\OT1/cmr/m/n/10.95 "Vuforia Supported-devices", 4 de Sep-tiem-bre de 2018. Re
+-cu-per-ado
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/10.95 "Fingo. Fur-ni-ture. Try be-fore you buy!" 22 de Oc-tubre 
+2018
+ []
+
+) [65] (TT2018-A002.aux (portada.aux) (resumen.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4436 strings out of 492970
+ 80475 string characters out of 3135839
+ 155373 words of memory out of 3000000
+ 8050 multiletter control sequences out of 15000+200000
+ 11421 words of font info for 39 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,13n,39p,1290b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on TT2018-A002.pdf (72 pages, 25376469 bytes).
+PDF statistics:
+ 387 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 356 words of extra memory for PDF output out of 10000 (max. 10000000)
+

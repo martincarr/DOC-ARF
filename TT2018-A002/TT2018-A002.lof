@@ -1,0 +1,76 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Modelo del proceso de dise\IeC {\~n}o de interiores.\relax }}{5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Esquema monocrom\IeC {\'a}tico.\cite {B13}\relax }}{8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Esquema complementario.\cite {B13}\relax }}{8}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Esquema an\IeC {\'a}logo.\cite {B13}\relax }}{9}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Milgram\IeC {\textquoteright }s reality-virtuality continuum.\cite {B27}\relax }}{10}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Restricciones de los puntos para el problema de la posici\IeC {\'o}n de la c\IeC {\'a}mara respecto al objeto AR.\cite {B27}\relax }}{11}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Visi\IeC {\'o}n base de la realida aumentada\cite {B22}\relax }}{12}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Taxonom\IeC {\'\i }a de la realidad aumentada\cite {B22}\relax }}{13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Casos de uso.\relax }}{27}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces CU1 - Login.\relax }}{28}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces CU2 - Registrar usuario.\relax }}{28}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces CU3 - Gesti\IeC {\'o}n de muebles.\relax }}{29}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces CU4 - Crear escenario.\relax }}{29}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces CU5 - Visualizar escenario.\relax }}{30}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagrama de secuencia - Registrar usuario.\relax }}{31}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Diagrama de secuencia - Registrar Acceso.\relax }}{32}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Diagrama de secuencia - Recuperar contrase\IeC {\~n}a.\relax }}{33}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Diagrama de secuencia -Gesti\IeC {\'o}n de muebles.\relax }}{34}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diagrama de secuencia - Guardar escenario.\relax }}{35}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Diagrama de secuencia - Visualizar escenario.\relax }}{36}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Posici\IeC {\'o}n Norte\relax }}{39}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Posici\IeC {\'o}n Sur\relax }}{39}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Posici\IeC {\'o}n Este\relax }}{39}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Posici\IeC {\'o}n Oeste\relax }}{39}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Objeto visto de cerca\relax }}{40}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Luz alta\relax }}{40}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Luz baja\relax }}{40}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Luz media\relax }}{40}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Objeto colocado en concreto\relax }}{41}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Objeto colocado en superficie blanca\relax }}{41}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Malla de puntos no detectada en superficie negra\relax }}{41}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Malla de puntos no detectada en vidrio\relax }}{41}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Gran cantidad de objetos en escena\relax }}{42}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Objetos puestos a gran distancia\relax }}{42}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Posici\IeC {\'o}n Norte\relax }}{43}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Posici\IeC {\'o}n Sur\relax }}{43}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Posici\IeC {\'o}n Este\relax }}{44}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Posici\IeC {\'o}n Oeste\relax }}{44}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Objeto visto de cerca\relax }}{44}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Objeto visto de lejos\relax }}{44}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Luz baja\relax }}{45}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Luz media\relax }}{45}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Luz alta\relax }}{45}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces marca de vuforia (thingmark)\relax }}{46}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Arquitectura de Backend de ARF.\relax }}{50}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Modelo Entidad-Relaci\IeC {\'o}n usado para la base de datos de ARF.\relax }}{51}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Hola mundo de ARcore\relax }}{51}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Primer modelo 3D implementado en ARcore\relax }}{52}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Mueble modelado en 3D\relax }}{53}
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Diagrama de proceso de Login.\relax }}{54}
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Flujo de informaci\IeC {\'o}n de login exitoso.\relax }}{54}
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Flujo de informaci\IeC {\'o}n de login fallido.\relax }}{55}
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Proceso de registro de nuevo usuario.\relax }}{55}
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Flujo de informaci\IeC {\'o}n de registro de usuario.\relax }}{56}
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Proceso de guardado de escenario.\relax }}{56}
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Flujo de informaci\IeC {\'o}n de guardado de escenario.\relax }}{57}
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Aplicaci\IeC {\'o}n: modelos en la parte inferior y bot\IeC {\'o}n de tomar foto parte superior\relax }}{57}
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Pantalla de visualizaci\IeC {\'o}n de fotograf\IeC {\'\i }as\relax }}{58}
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Pantalla de registro nuevo usuario\relax }}{58}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces UI1 - Pantalla inicial de autenticaci\IeC {\'o}n\relax }}{59}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces UI2 - Pantalla principal sin autenticaci\IeC {\'o}n\relax }}{59}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces UI3 - Men\IeC {\'u} desplegable de muebles (catalogo)\relax }}{60}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces UI4 - Pantalla principal tras autenticaci\IeC {\'o}n\relax }}{60}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces UI5 - Pantalla de almacenamiento de escenario\relax }}{60}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces UI6 - Pantalla de visualizaci\IeC {\'o}n de escenarios \relax }}{60}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces UI7 - Pantalla de visualizaci\IeC {\'o}n de fotograf\IeC {\'\i }as\relax }}{61}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces UI8 - Pantalla de registro nuevo usuario\relax }}{61}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces UI9 - Pantalla de recuperaci\IeC {\'o}n de contrase\IeC {\~n}a 1\relax }}{61}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces UI10 - Pantalla de recuperaci\IeC {\'o}n de contrase\IeC {\~n}a 2\relax }}{61}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces UI11 - Pantalla de actualizaci\IeC {\'o}n de contrase\IeC {\~n}a\relax }}{62}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces UI12 - Pantalla de visualizaci\IeC {\'o}n de im\IeC {\'a}genes de escenario \relax }}{62}
